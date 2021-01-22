@@ -98,7 +98,10 @@ source("results_summary_for_plots.R")
 ## Extra cleanup for figure 2 individual panels
 source("results_summary_for_plots_figure2_panels.R")
 
-
 ## Plots in progress for the manuscript !!!!! Open and run, don't source these !!!!!!
 # source("manuscript_plots_fig2_panels.R")
 # source("manuscript_plots.R")
+
+## The multi-generation approximation is run separately from the above
+source("multi_gen_predictions.R")
+
