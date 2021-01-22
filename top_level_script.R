@@ -67,7 +67,7 @@ model.complexity   <- use.host_abundance + use.mosq_abundance + use.mosq_bite_pr
 summary.type <- "raw" # "proportion" #   
 
 ## 3) Calculate host competence as host-mosquito host-host and host R0. Also calculate R0 of the whole community
-source("real_data_R0_2.R")
+source("R0_calc.R")
   
 }
 
@@ -98,10 +98,7 @@ source("results_summary_for_plots.R")
 ## Extra cleanup for figure 2 individual panels
 source("results_summary_for_plots_figure2_panels.R")
 
-## Lots of plots (old)
-# source("real_data_R0_2_plotting_complexity.R")
 
-## Plots in progress for the manuscript
- ## !! Open and run, don't source these
-# source("manuscript_plots.R")
+## Plots in progress for the manuscript !!!!! Open and run, don't source these !!!!!!
 # source("manuscript_plots_fig2_panels.R")
+# source("manuscript_plots.R")
