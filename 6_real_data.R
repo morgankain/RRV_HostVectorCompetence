@@ -16,27 +16,27 @@
 ####
 ## Host titer
 ####
-source("data.titer.R")
+source("7_data.titer.R")
 
 ####
 ## Host to mosquito transmission
 ####
-source("data.hm.R")
+source("8_data.hm.R")
 
 ####
 ## Mosquito to host transmission
 ####
-source("data.mh.R")
+source("9_data.mh.R")
 
 ####
 ## Mosquito survival.
 ####
-source("data.mosq_surv_same.R")
+source("11_data.mosq_surv_same.R")
 
 ####
 ## Mosquito biting preference
 ####
-source("data.mosq_bite_pref.R")
+source("12_data.mosq_bite_pref.R")
 
 ####
 ## Mosquito biting rate

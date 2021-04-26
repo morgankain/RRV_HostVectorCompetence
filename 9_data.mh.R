@@ -27,7 +27,7 @@ m_to_h_trans.pred <- m_to_h_trans.preddat %>%
   , re.form = ~(1 + day | mos_species))))
 
 ### Use the conditional modes and conditional covariances and bootstrap to get uncertainty on individual species responses 
-source("cond_cov.R")
+source("10_cond_cov.R")
 rand_eff_est         <- getME(m_to_h_trans.mod, c("b"))@x[1:(num_spec*2)]
 #cond_cov_mat         <- lme4:::condVar(m_to_h_trans.mod)
 #condvar_branch_array <- array(data = 0, dim = c(2, 2, length(unique(m_to_h_emp$mos_species))))

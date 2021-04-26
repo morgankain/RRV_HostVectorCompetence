@@ -196,7 +196,7 @@ FOI_from_t_mm  <- matrix(nrow = n_samps, ncol = num_mosq, data = 0)
 ## Method for calculating R0 sticks these matrices in the diagonal of a larger matrix then takes the eigen
 
 ## For details on the matrix algebra component here see:
- ## source("matrix_algebra_exploration.R")
+ ## source("17_matrix_algebra_exploration.R")
 
 for (k in 1:n_samps) {
 temp_mat           <- matrix(data = 0, nrow = num_hosts + num_mosq, ncol = num_hosts + num_mosq)
@@ -238,13 +238,13 @@ R0.out[k, 8]       <- FOI_from_t[k, ][which(host_prop$host_species == "human")] 
 ## Calculate host and mosquito competence for just the one-step physiology (hosts ability to infect mosquitoes
 ## and mosquitoes ability to pick up infection from hosts)
 ####
-source("host_mosq_comp_remaining.R")
+source("18_host_mosq_comp_remaining.R")
 
 ####
 ## Summary statistics on FOI_on and FOI_from (which is in fact host-to-host transmission competence)
 ####
-source("host_competence_cleanup.R")
-source("mosq_competence_cleanup.R")
+source("19_host_competence_cleanup.R")
+source("20_mosq_competence_cleanup.R")
 
 ## And for all calculations stick together previous and current estimates
 if (complexity_counter == 1) {

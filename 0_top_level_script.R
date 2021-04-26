@@ -15,10 +15,10 @@ source("5_data.R")
 source("6_real_data.R")
 
 ## Adjust the host and mosquito community for the location of interest
-source("12_data.community.R")
+source("13_data.community.R")
 
 ## Last step of arrangement before R0 and other downstream analyses
-source("13_data.R0_setup.R")
+source("14_data.R0_setup.R")
 
 ## Identify the specific pieces of data that we want to consider in our estimates of competence.
  ## This can be done:
@@ -48,7 +48,7 @@ one_off            <- FALSE         ## Run with all ecological components and wi
 all_permuted       <- FALSE         ## Run the model adding in ecological components in all possible orders in an attempt to capture the relative impact
                                     ## If both are false, just takes the above specifications
  ## of each (i.e. average change in median across all possible orders of adding the ecological components)
-source("14_model_complexity_setup.R")
+source("15_model_complexity_setup.R")
 
 for (complexity_counter in 1:nrow(model.runs)) {
   
@@ -67,7 +67,7 @@ model.complexity   <- use.host_abundance + use.mosq_abundance + use.mosq_bite_pr
 summary.type <- "raw" # "proportion" #   
 
 ## 3) Calculate host competence as host-mosquito host-host and host R0. Also calculate R0 of the whole community
-source("15_R0_calc.R")
+source("16_R0_calc.R")
   
 }
 
@@ -89,19 +89,19 @@ source("15_R0_calc.R")
 ## If using all permuted == TRUE, summarize the range of changes in ranks that occur when each ecological component is added in in
  ## all possible manners (as a measure of relative impact)
 if (all_permuted & !one_off) {
-source("19_summarize_all_permuted.R")
+source("21_summarize_all_permuted.R")
 }
 
 ## Clean up results for plots
-source("20_results_summary_for_plots.R")
+source("22_results_summary_for_plots.R")
 
 ## Extra cleanup for figure 2 individual panels
-source("21_results_summary_for_plots_figure2_panels.R")
+source("23_results_summary_for_plots_figure2_panels.R")
 
 ## Plots in progress for the manuscript !!!!! Open and run, don't source these !!!!!!
-# source("22_manuscript_plots_fig2_panels.R")
-# source("23_manuscript_plots.R")
+# source("24_manuscript_plots_fig2_panels.R")
+# source("25_manuscript_plots.R")
 
 ## The multi-generation approximation is run separately from the above
-source("24_multi_gen_predictions.R")
+source("26_multi_gen_predictions.R")
 
