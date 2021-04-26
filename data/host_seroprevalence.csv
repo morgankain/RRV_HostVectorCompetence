@@ -1,0 +1,14 @@
+host_species,prop_positive,reference,note
+bird,0.289,elle raw data,
+cat,0.14,boyd & kay 2002,
+cattle,0.36,vale 1991,
+dog,0.237,boyd & kay 2002,
+flying_fox,0.172,elle raw data,
+horse,0.939,elle raw data,
+human,0.138,faddy et al 2015,
+macropod,0.439,potter et al 2014,
+possum,0.538,elle raw data,added brushtail and ringtail possums together
+rabbit,0,marshall et al 1980,
+rat,0.02,doherty et al 1966,
+sheep,0.11,doherty et al 1966,
+bandicoot,0.25,vale 1991,

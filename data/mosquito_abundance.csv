@@ -1,0 +1,83 @@
+sp,site,count,source
+ae_aegypti,cairns,304,jansen et al 2009
+ae_aculeatus,brisbane,30,bcc
+ae_alboscutellatus,brisbane,1,bcc
+ae_alboscutellatus,cairns,40,steiger et al 2011
+ae_alternans,brisbane,9,bcc
+ae_alternans,cairns,2,steiger et al 2011
+ae_burpengaryensis,brisbane,44,bcc
+ae_kochi,cairns,13,steiger et al 2011
+ae_lineatopennis,brisbane,2,bcc
+ae_lineatopennis,brisbane,1,jansen et al 2009
+ae_lineatopennis,cairns,11,steiger et al 2011
+ae_notoscriptus,brisbane,575,bcc
+ae_notoscriptus,cairns,22,steiger et al 2011
+ae_notoscriptus,brisbane,16,jansen et al 2009
+ae_notoscriptus,brisbane,170,kay et al 2007
+ae_notoscriptus,cairns,2,jansen et al 2009
+ae_procax,brisbane,6155,bcc
+ae_procax,brisbane,27,kay et al 2007
+ae_procax,brisbane,2,jansen et al 2009
+ae_vigilax,cairns,2,steiger et al 2011
+ae_vigilax,brisbane,7042,bcc
+ae_vigilax,cairns,1,jansen et al 2009
+ae_vigilax,brisbane,28,jansen et al 2009
+ae_vigilax,brisbane,129,kay et al 2007
+ae_vittiger,brisbane,5,kay et al 2007
+ae_vittiger,brisbane,432,bcc
+ae_wasselli,brisbane,41,bcc
+an_annulipes,brisbane,278,bcc
+an_annulipes,cairns,4,steiger et al 2011
+an_atratipes,brisbane,27,bcc
+an_bancroftii,brisbane,11,bcc
+an_bancroftii,cairns,15,steiger et al 2011
+an_farauti,cairns,34,steiger et al 2011
+cq_crassipes,cairns,13,steiger et al 2011
+cq_linealis,brisbane,5,kay et al 2007
+cq_linealis,brisbane,3145,bcc
+cq_linealis,brisbane,1,jansen et al 2009
+cq_xanthogaster,brisbane,357,bcc
+cq_xanthogaster,brisbane,10,jansen et al 2009
+cq_xanthogaster,brisbane,18,kay et al 2007
+cx_annulirostris,brisbane,10473,bcc
+cx_annulirostris,brisbane,450,kay et al 2007
+cx_annulirostris,cairns,320,steiger et al 2011
+cx_annulirostris,brisbane,75,jansen et al 2009
+cx_annulirostris,cairns,37,jansen et al 2009
+cx_australicus,brisbane,1,bcc
+cx_australicus,brisbane,22,kay et al 2007
+cx_bitaeniorhynchus,cairns,4,steiger et al 2011
+cx_cubiculi,cairns,10,steiger et al 2011
+cx_gelidus,cairns,8,steiger et al 2011
+cx_halifaxii,brisbane,7,bcc
+cx_halifaxii,cairns,2,jansen et al 2009
+cx_hilli,cairns,3,steiger et al 2011
+cx_hilli,cairns,6,jansen et al 2009
+cx_orbostiensis,brisbane,1230,bcc
+cx_orbostiensis,brisbane,2,jansen et al 2009
+cx_pullus,cairns,81,steiger et al 2011
+cx_pullus,cairns,2,jansen et al 2009
+cx_quinquefasciatus,brisbane,1,bcc
+cx_quinquefasciatus,cairns,1,steiger et al 2011
+cx_quinquefasciatus,brisbane,5,jansen et al 2009
+cx_quinquefasciatus,brisbane,25,kay et al 2007
+cx_quinquefasciatus,cairns,163,jansen et al 2009
+cx_sitiens,brisbane,14,kay et al 2007
+cx_sitiens,brisbane,166,bcc
+cx_sitiens,cairns,14,steiger et al 2011
+cx_sitiens,brisbane,5,jansen et al 2009
+cx_sitiens,cairns,8,jansen et al 2009
+ma_septempunctata,cairns,2,steiger et al 2011
+ma_uniformis,brisbane,75,bcc
+ma_uniformis,brisbane,1,jansen et al 2009
+ma_uniformis,cairns,6,steiger et al 2011
+mi_elegans,brisbane,1,bcc
+to_speciosus,cairns,1,steiger et al 2011
+ur_sp,cairns,1,steiger et al 2011
+ve_carmenti,cairns,2,steiger et al 2011
+ve_carmenti,cairns,6,jansen et al 2009
+ve_funerea,brisbane,44,bcc
+ve_funerea,brisbane,1,jansen et al 2009
+ve_funerea,cairns,4,steiger et al 2011
+ve_lineata,cairns,104,steiger et al 2011
+ve_marks sp.52,brisbane,793,bcc

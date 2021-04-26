@@ -1,0 +1,34 @@
+Reference,Vector,Area name,Habitat,Climatic Zone,human,dog,cat,horse,bird,possum,marsupial,flying_fox,cattle,pig,rabbit,sheep,goat,mixed,other,fox,rat,Total
+Jansen,ae_lineatopennis,brisbane,Urban,Subtropical,0,1,0,0,0,,0,,0,,0,,,0,0,,0,1
+Jansen,ae_notoscriptus,brisbane,Urban,Subtropical,3,1,0,0,2,,5,,0,,0,,,0,0,,0,11
+Jansen,ae_procax,brisbane,Urban,Subtropical,0,2,0,0,0,,0,,0,,0,,,0,0,,0,2
+Jansen,ae_vigilax,brisbane,Urban,Subtropical,9,3,0,4,1,,2,,0,,0,,,1,2,,2,24
+Jansen,cq_linealis,brisbane,Urban,Subtropical,0,0,0,0,1,,0,,0,,0,,,0,0,,0,1
+Jansen,cq_xanthogaster,brisbane,Urban,Subtropical,0,0,1,0,8,,1,,0,,0,,,0,0,,0,10
+Jansen,cx_annulirostris,brisbane,Urban,Subtropical,12,7,0,3,9,,19,,3,,1,,,0,1,,3,58
+Jansen,cx_orbostiensis,brisbane,Urban,Subtropical,1,0,0,0,0,,0,,0,,0,,,0,0,,0,1
+Jansen,cx_quinquefasciatus,brisbane,Urban,Subtropical,0,0,0,0,2,,0,,0,,0,,,0,0,,0,2
+Jansen,cx_sitiens,brisbane,Urban,Subtropical,1,0,0,0,2,,0,,0,,0,,,0,0,,0,3
+Jansen,ma_uniformis,brisbane,Urban,Subtropical,0,1,0,0,0,,0,,0,,0,,,0,0,,0,1
+Jansen,ve_funerea,brisbane,Urban,Subtropical,1,0,0,0,0,,0,,0,,0,,,0,0,,0,1
+Jansen,ae_aegypti,cairns,Urban,Tropical,131,23,2,0,10,,0,,0,,1,,,7,0,,0,174
+Jansen,ae_notoscriptus,cairns,Urban,Tropical,0,0,0,0,1,,1,,0,,0,,,0,0,,0,2
+Jansen,ae_vigilax,cairns,Urban,Tropical,0,0,0,0,0,,1,,0,,0,,,0,0,,0,1
+Jansen,cx_annulirostris,cairns,Urban,Tropical,3,5,0,1,6,,14,,0,,0,,,0,1,,4,34
+Jansen,cx_halifaxii,cairns,Urban,Tropical,0,0,0,0,1,,0,,0,,0,,,0,0,,0,1
+Jansen,cx_hilli,cairns,Urban,Tropical,3,1,0,0,0,,0,,0,,0,,,0,0,,0,4
+Jansen,cx_pullus,cairns,Urban,Tropical,1,0,0,0,1,,0,,0,,0,,,0,0,,0,2
+Jansen,cx_quinquefasciatus,cairns,Urban,Tropical,4,2,0,0,142,,0,,0,,0,,,0,1,,0,149
+Jansen,cx_sitiens,cairns,Urban,Tropical,0,4,0,1,1,,2,,0,,0,,,0,0,,0,8
+Jansen,ve_carmenti,cairns,Urban,Tropical,1,1,0,0,0,,4,,0,,0,,,0,0,,0,6
+Ryan,ve_funerea,brisbane,Urban,Subtropical,,,,,,,,16,,,,,,,,,,16
+Kay et al 2007,ae_notoscriptus,brisbane,Urban,Subtropical,32,62,3,0,27,42,0,4,,,,,,,,,,170
+Kay et al 2007,ae_procax,brisbane,Urban,Subtropical,3,15,0,1,8,0,0,0,,,,,,,,,,27
+Kay et al 2007,ae_vigilax,brisbane,Urban,Subtropical,18,41,2,16,39,12,0,1,,,,,,,,,,129
+Kay et al 2007,ae_vittiger,brisbane,Urban,Subtropical,0,1,0,3,0,1,0,0,,,,,,,,,,5
+Kay et al 2007,cx_annulirostris,brisbane,Urban,Subtropical,46,193,7,99,45,57,2,1,,,,,,,,,,450
+Kay et al 2007,cx_australicus,brisbane,Urban,Subtropical,0,1,0,5,14,2,0,0,,,,,,,,,,22
+Kay et al 2007,cx_quinquefasciatus,brisbane,Urban,Subtropical,0,3,3,11,7,1,0,0,,,,,,,,,,25
+Kay et al 2007,cx_sitiens,brisbane,Urban,Subtropical,1,2,0,2,9,0,0,0,,,,,,,,,,14
+Kay et al 2007,cq_linealis,brisbane,Urban,Subtropical,0,0,0,4,1,0,0,0,,,,,,,,,,5
+Kay et al 2007,cq_xanthogaster,brisbane,Urban,Subtropical,0,5,0,4,9,0,0,0,,,,,,,,,,18

@@ -1,0 +1,25 @@
+host,infected.dose,total.tested,peak.titre,unit,sd.titre,titre.duration.hours,titre.duration.days,sd.duration,perc.viraemic,num.viraemic,perc.antibody,ref,note
+brushtail_possum,3.5,10,8.5,CCID50,1.6,72,3,1.5,33,3,80,Boyd & Kay 2001,"peak titre and duration reported in text, sd's taken from figures. Additional information: a) We don't actually know the infective dose. What is provided is the titer of the mosquito, not the dose the mosquito inoculated whilst blood feeding. b) Peak titer has been converted to per mL (it was originally per 100 uL). The SD values will have to be changed to reflect this (i.e. should be 2.6 CCID50/mL). c) Still not sure where they got the peak viremia titre they cite in the text..."
+agile_wallaby,4.5,9,5.6,SMIC50,2.4,81.6,3.4,1.1,78,7,100,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+grey_kangaroo,4.5,3,4.6,SMIC50,2,144,6,0,100,3,100,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+bandicoot,3.2,4,7.2,LD50,0,144,6,0,100,4,100,Whitehead 1969,"assumption: all individuals were positive, no sd given"
+marsupial_mouse,2.2,6,8,LD50,0,144,6,0,100,6,100,Whitehead 1969,"assumption: all individuals were positive, no sd given"
+horse,4.5,11,6.3,SMIC50,0,96,4,0,10,1,60,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+sheep,4.5,8,3.8,SMIC50,1,57.6,2.4,1.1,100,8,100,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+sheep,6.5,4,3.3,LD50,2.16,120,5,0.7,100,4,100,Spradbrow 1973,"SD's estimated from the text. Note that only 4 sheep were inoculated with this titre. As far as I can make out it is 3.3 LOG/mL of viraemia. They state that viraemia never went above this titre. The duration of viramia differed between sheep with a maximum duration of 5 days. So, you'll need to recalculate the values."
+sheep,5,3,0,LD50,0,0,0,0,0,0,0,Spradbrow 1974,This information is new…the author states that there was no evidence of viraemia.
+sheep,NA,5,5,LD50,0,48,2,0.5,100,5,NA,,1-3 days of titer duration given. Made the simple assumption to convert to mean of 2 with SD of 0.5.
+pig,4.5,11,3,SMIC50,1,81.6,3.4,1.6,91,10,45,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+pig,5,3,3,LD50,2.16,48,2,0.7,100,3,100,Spradbrow 1973,"SD's estimated from the text. As far as I can make out, the titre of the viraemia is 3.0 LD50/mL"
+cow,4.5,6,2.3,SMIC50,0,48,2,0,16,1,16,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+cat,3.5,10,0,CCID50,0,0,0,0,0,0,10,Boyd & Kay 2002,See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated.
+dog,3.5,10,0,CCID50,0,0,0,0,0,0,10,Boyd & Kay 2002,See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated.
+grey_h_f_fox,6.9,10,2.2,TCID50,0,96,4,2.4,25,3,33,Ryan et al. 1997,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. This is not really a peak viraemia, It is the limit of detection of the assay (which is 3.2 LOG TCID50/mL). So, using the virus content of a blood fed mosquito as a way to measure viraemia showed that all were negative (i.e. titres less than 3.2 LOG TCID50/mL), but we don't know what their titres were, even if they had a low level viraemia."
+rat,2.2,4,7.4,LD50,0,72,3,0,0,4,100,Whitehead 1969,"assumption: all individuals were positive, no sd given"
+rabbit,4.5,9,3.1,SMIC50,0.3,55.2,2.3,0.5,67,6,0,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+rabbit,3.2,4,4.7,LD50,0,48,2,0,0,4,100,Whitehead 1969,"assumption: all individuals were positive, no sd given"
+chicken,4.5,20,2.8,SMIC50,0.9,69.6,2.9,1,95,19,55,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"
+chicken,5.7,16,5,SMIC50,0,120,5,0,18.75,3,75,Whitehead 1969,"assumption: all individuals were positive, no sd given. Note that these were chicks"
+chicken,2.6,16,5,SMIC50,0,120,5,0,18.75,3,75,Whitehead 1969,"assumption: all individuals were positive, no sd given. Note these were adults."
+black_duck,4.5,3,1.8,SMIC50,2.1,96,4,1.4,67,2,100,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL. Unclear how SD can be larger than the peak. Not enough info given in the paper to understand this"
+little_corella,4.5,12,2.3,SMIC50,0.1,50.4,2.1,1.1,50,6,0,Kay et al. 1986,"See comment in notes re: Boyd et al. 2001 re: titer of virus inoculated. Also, all viraemia titres are SMICD50/mL"

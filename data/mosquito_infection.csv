@@ -1,0 +1,330 @@
+species,genus,RRV_isolate,infectious.dose,perc.infected,unit,total.infect.exp,temp,day,ref
+ae_aegypti,aedes,T48,7.5,89,PFU,39,27,,Ballard & Marshall 1986
+ae_aegypti,aedes,T48,6.4,31,PFU,67,27,,Ballard & Marshall 1986
+ae_aegypti,aedes,T48,5.5,31,PFU,55,27,,Ballard & Marshall 1986
+ae_aegypti,aedes,T48,4.6,15,PFU,45,27,,Ballard & Marshall 1986
+ae_aegypti,aedes,T48,5.9,100,SMIC,9,27,,Kay et al 1979
+ae_alternans,aedes,5962,4.2,100,TCID50,2,27,1,Wells et al 1994
+ae_alternans,aedes,5962,4.2,33,TCID50,3,27,6,Wells et al 1994
+ae_alternans,aedes,5962,4.2,83,TCID50,6,27,10,Wells et al 1994
+ae_alternans,aedes,5962,5.2,75,TCID50,4,27,1,Wells et al 1994
+ae_alternans,aedes,5962,5.2,67,TCID50,3,27,3,Wells et al 1994
+ae_alternans,aedes,5962,5.2,40,TCID50,5,27,6,Wells et al 1994
+ae_alternans,aedes,5962,5.2,100,TCID50,3,27,8,Wells et al 1994
+ae_alternans,aedes,5962,5.2,67,TCID50,15,27,10,Wells et al 1994
+ae_alternans,aedes,5962,6.2,50,TCID50,4,27,1,Wells et al 1994
+ae_alternans,aedes,5962,6.2,100,TCID50,4,27,3,Wells et al 1994
+ae_alternans,aedes,5962,6.2,100,TCID50,1,27,6,Wells et al 1994
+ae_alternans,aedes,5962,6.2,100,TCID50,6,27,10,Wells et al 1994
+ae_camptorhynchus,aedes,T48,7.5,100,PFU,1,27,14,Ballard & Marshall 1986
+ae_camptorhynchus,aedes,T48,6.8,89,PFU,9,27,14,Ballard & Marshall 1986
+ae_camptorhynchus,aedes,T48,6.4,100,PFU,6,27,14,Ballard & Marshall 1986
+ae_camptorhynchus,aedes,T48,5.9,100,PFU,4,27,14,Ballard & Marshall 1986
+ae_camptorhynchus,aedes,T48,5.5,67,PFU,6,27,14,Ballard & Marshall 1986
+ae_camptorhynchus,aedes,T48,4.6,17,PFU,6,27,14,Ballard & Marshall 1986
+ae_multiplex,aedes,RR553,3.7,0,CCID50,45,28,10,"Ryan, Do, Kay 2000"
+ae_multiplex,aedes,RR553,4.7,3,CCID50,30,28,10,"Ryan, Do, Kay 2000"
+ae_multiplex,aedes,B94/20,5.7,0,CCID50,9,28,10,"Ryan, Do, Kay 2000"
+ae_multiplex,aedes,RR553,6.7,3,CCID50,59,28,10,"Ryan, Do, Kay 2000"
+ae_multiplex,aedes,B94/20,7.7,15,CCID50,8,28,10,"Ryan, Do, Kay 2000"
+ae_multiplex,aedes,RR553,4.2,57,CCID50,44,28,10,"Ryan, Do, Kay 2000"
+ae_multiplex,aedes,B94/20,5.2,58,CCID50,150,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,RR5962,6.7,70,TCID50,10,25,3,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR5962,6.7,50,TCID50,10,25,5,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR5962,6.7,50,TCID50,10,25,7,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR5962,6.7,70,TCID50,10,25,9,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR5962,6.7,40,TCID50,10,25,11,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR5962,6.7,50,TCID50,10,25,13,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR5962,6.7,0,TCID50,2,25,15,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,100,TCID50,10,25,3,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,100,TCID50,10,25,5,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,100,TCID50,10,25,7,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,70,TCID50,10,25,9,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,90,TCID50,10,25,11,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,100,TCID50,10,25,13,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR2186,6.6,100,TCID50,6,25,15,Doggett & Russell 1997
+ae_notoscriptus,aedes,RR1693,4.5,0,CCID50,22,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,RR1693,5.5,20,CCID50,54,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,B94/20,5.7,15,CCID50,22,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,RR1693,6.5,36,CCID50,14,28,12,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,RR1693,6.5,35,CCID50,21,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,B94/20,6.7,60,CCID50,63,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,,B94/20,7.7,90,CCID50,10,28,7,"Ryan, Do, Kay 2000"
+ae_notoscriptus,,B94/20,7.7,85,CCID50,13,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,,B94/20,7.7,65,CCID50,106,28,10,"Ryan, Do, Kay 2000"
+ae_notoscriptus,aedes,B94/20,3.5,0,CCID50,28,25,9,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,4.5,5,CCID50,43,25,9,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,6,63,CCID50,30,25,9,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,85,CCID50,110,25,9,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,76,CCID50,21,25,4,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,82,CCID50,22,25,5,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,80,CCID50,15,25,7,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,93,CCID50,15,25,9,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,87,CCID50,15,25,12,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,100,CCID50,15,25,14,Watson & Kay 1998
+ae_notoscriptus,aedes,B94/20,7.5,71,CCID50,7,25,17,Watson & Kay 1998
+ae_procax,aedes,B94/20,5.7,30,CCID50,40,28,10,"Ryan, Do, Kay 2000"
+ae_procax,aedes,B94/20,6.7,90,CCID50,21,28,10,"Ryan, Do, Kay 2000"
+ae_procax,aedes,B94/20,7.7,95,CCID50,133,28,10,"Ryan, Do, Kay 2000"
+ae_procax,aedes,B94/20,7.7,98,CCID50,49,28,9,"Ryan, Do, Kay 2000"
+ae_procax,aedes,B94/20,7.7,100,CCID50,16,28,19,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,B94/20,4.2,67,CCID50,15,28,8,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,4.9,79,CCID50,14,28,8,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,5.6,100,CCID50,13,28,8,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,93,CCID50,14,28,8,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,7,100,CCID50,12,28,8,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,100,CCID50,10,28,2,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,100,CCID50,10,28,4,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,90,CCID50,10,28,6,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,100,CCID50,10,28,8,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,100,CCID50,10,28,10,Jefferey et al 2002
+ae_vigilax,aedes,B94/20,6.3,100,CCID50,8,28,12,Jefferey et al 2002
+ae_vigilax,aedes,T48,4.5,0,SMIC,30,28,10,Kay 1982
+ae_vigilax,aedes,T48,5.5,0,SMIC,24,28,10,Kay 1982
+ae_vigilax,aedes,T48,6.5,17,SMIC,30,28,10,Kay 1982
+ae_vigilax,aedes,T48,6.7,69,SMIC,16,28,10,Kay 1982
+ae_vigilax,aedes,T48,7,83,SMIC,6,28,10,Kay 1982
+ae_vigilax,aedes,T48,7.5,77,SMIC,65,28,10,Kay 1982
+ae_vigilax,aedes,T48,8.6,85,SMIC,26,28,10,Kay 1982
+ae_vigilax,aedes,T48,9,100,SMIC,19,28,10,Kay 1982
+ae_vigilax,aedes,"ATCC, CCL-81",8.1,79,TCID50,19,28,8,Ramirez et al. 2018
+ae_vigilax,aedes,"ATCC, CCL-81",8.1,89,TCID50,19,28,11,Ramirez et al. 2018
+ae_vigilax,aedes,"ATCC, CCL-81",8.1,76,TCID50,17,28,15,Ramirez et al. 2018
+ae_vigilax,aedes,B94/20,5.7,19,CCID50,51,28,10,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,B94/20,6.7,70,CCID50,33,28,10,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,B94/20,7.7,86,CCID50,118,28,10,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,B94/20,7.7,64,CCID50,22,28,4,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,B94/20,7.7,92,CCID50,12,28,7,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,B94/20,7.7,90,CCID50,10,28,8,"Ryan, Do, Kay 2000"
+ae_vigilax,aedes,T48,2.9,0,TCID50,14,22-26,5,Vale et al 1992
+ae_vigilax,aedes,T48,4.6,4,TCID50,24,22-26,5,Vale et al 1992
+ae_vigilax,aedes,T48,5.7,29,TCID50,24,22-26,5,Vale et al 1992
+ae_vigilax,aedes,T48,6.5,86,TCID50,22,22-26,5,Vale et al 1992
+ae_vigilax,aedes,T48,7.9,91,TCID50,11,22-26,5,Vale et al 1992
+ae_vigilax,aedes,B94/20,6.3,97,TCID50/mL,34,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ae_vigilax,aedes,B94/20,6.3,77,TCID50/mL,13,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ae_vigilax,aedes,B94/20,6.3,91,TCID50/mL,23,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ae_vigilax,aedes,B94/20,6.3,97,TCID50/mL,30,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ae_vigilax,aedes,B94/20,5.1,45,TCID50/mL,20,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.4,80,TCID50/mL,20,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.4,94,TCID50/mL,83,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,10,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,10,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,50,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,20,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,90,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,90,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,30,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,20,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,70,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,50,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,70,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,10,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,10,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,90,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,90,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,10,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,30,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,60,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,90,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,90,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,10,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,3.2,0,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,50,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,4.4,40,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,70,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.3,80,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,7.2,100,TCID50/mL,10,28,10,"Jennings, C.D.; Kay, B.H. Dissemination barriers to Ross River virus in Aedes vigilax and the effects of larval nutrition on their expression. Med Vet Entomol 1999, 13, 431-438."
+ae_vigilax,aedes,B94/20,6.6,90,TCID50/mL,10,18,1,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,90,TCID50/mL,10,18,2,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,3,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,90,TCID50/mL,10,18,5,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,80,TCID50/mL,10,18,9,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,12,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,16,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,90,TCID50/mL,10,18,18,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,80,TCID50/mL,10,18,20,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,90,TCID50/mL,10,18,25,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,6,18,30,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,90,TCID50/mL,10,18,35,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,1,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,2,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,3,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,4,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,5,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,6,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,8,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,83,TCID50/mL,12,25,9,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,10,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,12,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,25,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,12,25,16,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,12,25,18,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,8,25,20,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,12,25,25,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,1,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,2,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,3,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,5,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,10,18,9,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,87,TCID50/mL,8,18,12,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,100,TCID50/mL,8,18,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,83,TCID50/mL,6,18,16,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,6.6,80,TCID50/mL,15,18,20,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,70,TCID50/mL,40,18,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,82,TCID50/mL,39,18,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,63,TCID50/mL,40,25,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,70,TCID50/mL,30,25,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,78,TCID50/mL,40,18,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,63,TCID50/mL,24,18,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,68,TCID50/mL,40,25,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,65,TCID50/mL,40,25,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,73,TCID50/mL,30,32,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,72,TCID50/mL,18,32,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,53,TCID50/mL,40,25,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,69,TCID50/mL,36,25,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,70,TCID50/mL,30,32,7,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,48,TCID50/mL,21,32,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,72,TCID50/mL,18,18-25,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,62,TCID50/mL,21,25-18,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,60,TCID50/mL,20,25-18,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,63,TCID50/mL,16,25-32,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+ae_vigilax,aedes,B94/20,5.6,67,TCID50/mL,9,32-25,14,"Kay, B.H.; Jennings, C.D. Enhancement or modulation of the vector competence of Ochlerotatus vigilax (Diptera: Culicidae) for ross river virus by temperature. Journal of Medical Entomology 2002, 39, 99-105."
+cq_linealis,coquillettidia,B94/20,4.2,32,CCID50,31,28,8,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,4.9,60,CCID50,30,28,8,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,5.6,80,CCID50,30,28,8,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,93,CCID50,30,28,8,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,7,100,CCID50,30,28,8,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,96,CCID50,25,28,2,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,96,CCID50,25,28,4,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,96,CCID50,25,28,6,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,100,CCID50,25,28,8,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,96,CCID50,25,28,10,Jefferey et al 2002
+cq_linealis,coquillettidia,B94/20,6.3,76,CCID50,25,28,12,Jefferey et al 2002
+cx_annulirostris,culex,B94/20,8.5,83,TCID50,64,25,7,"Doggett, S.L.; Klowden, M.J.; Russell, R.C. Are vector competence experiments competent vector experiments. Arbovirus Research in Australia 2001, 8, 126-130."
+cx_annulirostris,culex,B94/20,4.7,0,CCID50,74,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_annulirostris,culex,B94/20,5.7,0,CCID50,78,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_annulirostris,culex,B94/20,6.7,5,CCID50,52,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_annulirostris,culex,B94/20,7.7,40,CCID50,195,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_annulirostris,culex,B94/20,7.7,38,CCID50,16,28,8,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_annulirostris,culex,B94/20,7.7,31,CCID50,16,28,12,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_annulirostris,culex,B94/20,7.7,62,CCID50,13,28,20,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_austraclicus,culex,B94/20,5.7,5,CCID50,37,28,10,"Ryan, Do, Kay 2000"
+cx_austraclicus,culex,B94/20,6.7,40,CCID50,19,28,10,"Ryan, Do, Kay 2000"
+cx_austraclicus,culex,B94/20,7.7,73,CCID50,72,28,10,"Ryan, Do, Kay 2000"
+cx_austraclicus,culex,B94/20,7.7,73,CCID50,11,28,7,"Ryan, Do, Kay 2000"
+cx_austraclicus,culex,B94/20,7.7,67,CCID50,18,28,12,"Ryan, Do, Kay 2000"
+cx_quinquefasciatus,culex,T48,6.2,0,LD50,44,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,7.2,0,LD50,32,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,8.1,0,LD50,5,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,5.2,0,LD50,36,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,6.2,0,LD50,30,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,7.2,0,LD50,31,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,8.1,36,LD50,11,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,5.2,0,LD50,9,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,6.2,0,LD50,31,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,7.2,0,LD50,33,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,8.1,100,LD50,1,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,7.2,0,LD50,25,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,6.2,12,LD50,17,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,7.2,0,LD50,44,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,8.1,20,LD50,5,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,6.2,0,LD50,51,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,7.2,3,LD50,61,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_quinquefasciatus,culex,T48,8.1,17,LD50,18,28,10,"Kay, B.; Fanning, I.; Carley, J. Vector competence of Culex pipiens quinquefasciatus for Murray Valley encephalitis, Kunjin, and Ross River viruses from Australia. American Journal of Tropical Medicine and Hygiene 1982, 31, 844-848."
+cx_sitiens,culex,T48,5.9,0,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,6.9,32,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,7.9,30,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,8.6,23,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,8.9,50,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9,26,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.1,50,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.3,50,TCID50,27,28,10,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.3,35,TCID50,21,28,4,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.3,30,TCID50,20,28,7.5,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.3,50,TCID50,20,28,10.5,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.3,40,TCID50,12,28,14,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,T48,9.3,65,TCID50,11,28,18,"Fanning, I.D.; Mottram, P.; Kay, B.H. Studies on the vector competence and autogeny in Culex sitiens Wiedemann (Diptera: Culicidae). Journal of the Australian Entomological Society 1992, 31, 249-253."
+cx_sitiens,culex,B94/20,5.7,0,CCID50,24,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_sitiens,culex,B94/20,6.7,0,CCID50,13,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+cx_sitiens,culex,B94/20,7.7,8,CCID50,37,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ma_septempunctata,mansonia,RR102MP,5.7,35,CCID50,141,28,5,Webb et al 2008
+ma_uniformis,mansonia,B94/20,7.7,80,CCID50,5,28,10,"Ryan, Do, Kay 2000"
+ve_carmenti,verrallina,RR2186,4.3,34,CCID50,41,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_carmenti,verrallina,RR2186,5.3,80,CCID50,25,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_carmenti,verrallina,RR2186,6.3,94,CCID50,34,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_carmenti,verrallina,RR2186,7.3,89,CCID50,27,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_carmenti,verrallina,RR102MP,7.6,93,CCID50,40,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_carmenti,verrallina,RR2186,8.3,91,CCID50,33,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_funerea,verrallina,B94/20,4.7,0,CCID50,24,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,5.7,0,CCID50,13,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,6.7,26,CCID50,34,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,7.7,86,CCID50,162,28,10,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,7.7,83,CCID50,24,28,7,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,7.7,100,CCID50,12,28,8,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,7.7,100,CCID50,23,28,9,"Ryan, P.A.; Do, K.-A.; Kay, B.H. Definition of Ross River virus vectors at Maroochy Shire, Australia. Journal of Medical Entomology 2000, 37, 146-152."
+ve_funerea,verrallina,B94/20,6.3,80,TCID50/mL,20,27,2,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,70,TCID50/mL,20,27,4,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,65,TCID50/mL,20,27,6,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,55,TCID50/mL,20,27,8,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,60,TCID50/mL,20,27,10,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,50,TCID50/mL,20,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,97,TCID50/mL,30,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,83,TCID50/mL,35,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,96,TCID50/mL,25,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_funerea,verrallina,B94/20,6.3,87,TCID50/mL,30,27,12,"Jefferey, J.A.L.; Kay, B.H.; Ryan, P.A. Role of Verrallina funerea (Diptera: Culicidae) in transmission of Barmah Forest virus and Ross River virus in coastal areas of eastern Australia. Journal of Medical Entomology 2006, 43, 1239-1247."
+ve_lineata,verrallina,RR2186,3.5,7,CCID50,15,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_lineata,verrallina,RR2186,4.5,15,CCID50,19,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_lineata,verrallina,RR2186,5.5,41,CCID50,29,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_lineata,verrallina,RR2186,6.5,32,CCID50,22,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_lineata,verrallina,RR2186,7.5,86,CCID50,22,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
+ve_lineata,verrallina,RR102MP,7.6,83,CCID50,99,28,7,"Webb, C.E.; Doggett, S.L.; Ritchie, S.A.; Russell, R.C. Vector competence of three Australian mosquitoes, Verrallina carmenti, Verraullina lineata, and Mansonia septempunctata (Diptera: Culicidae), for Ross River virus. J Med Entomol 2008, 45, 737-740."
