@@ -143,6 +143,27 @@ ggsave(filename = "/Users/Morgan/Desktop/mosq_multigen.pdf", plot = last_plot(),
 ## All of the supplemental methods figures are created in the scripts where the statistical models are run
 ####
 
+### Except for this results summary figure showing the densities of hosts responses
+
+physiol_mat.s.all %>% filter(G1 == "human" | G1 == "bird" | G1 == "macropod" | G1 == "horse" | G1 == "possum") %>%
+  mutate(G1 = plyr::mapvalues(G1, from = c("human", "bird", "macropod", "horse", "possum"), to = c("Human", "Bird", "Macropod", "Horse", "Possum"))) %>% {
+    ggplot(., aes(x = sum)) +
+    geom_density(aes(colour = G1, fill = G1), lwd = 1, alpha = 0.3) +
+    scale_color_discrete(name = "Source Infection") + 
+    scale_fill_discrete(name = "Source Infection") + 
+    xlab("Total Number of Second Generation Infections") +
+    ylab("Density") + 
+    geom_vline(data = 
+        (physiol_mat.s.all.gg %>% filter(G1 == "Human" | G1 == "Bird" | G1 == "Macropod" | G1 == "Horse" | G1 == "Possum"))
+    ,  aes(xintercept = est_tot, colour = G1), lwd = 0.75, linetype = "dashed"
+        ) +
+    theme(
+      legend.key.size = unit(.65, "cm")
+    , legend.text = element_text(size = 14)
+    , legend.title = element_text(size = 16)
+    )
+  }
+
 ######
 ## A few pieces for the conceptual figure (put together in keynote)
 ######
