@@ -11,7 +11,15 @@ source("4_parameters.R")         ## Parameters for the model (for parameters wit
 ## Bring in and clean raw data
 source("5_data.R")
 
-## Series of scripts to fit models and arrange data for community-level analysis
+## Series of scripts to fit models and arrange data for community-level analysis. This script calls 5 others, each of which
+ ## organizes some data and fits a [some] models. The time requirements are approximately as follows:
+## titer                         -- Approximately 15 minutes
+## host to mosquito transmission -- trivial
+## mosquito to host transmission -- trivial
+## mosquito survival             -- trivial
+## mosquito biting preferences   -- Approximately 20 minutes with _default_ parameters 
+ ##                                 (this is a Stan model that can be sped up dramatically by increasing the # of cores used; 1 is default)
+ ##                                 to make any Stan call changes open "12_data.mosq_bite_pref.R"
 source("6_real_data.R")
 
 ## Adjust the host and mosquito community for the location of interest
@@ -47,7 +55,6 @@ model.complexity   <- use.host_abundance + use.mosq_abundance + use.mosq_bite_pr
 one_off            <- FALSE         ## Run with all ecological components and with each one removed one at a time
 all_permuted       <- FALSE         ## Run the model adding in ecological components in all possible orders in an attempt to capture the relative impact
                                     ## If both are false, just takes the above specifications
- ## of each (i.e. average change in median across all possible orders of adding the ecological components)
 source("15_model_complexity_setup.R")
 
 for (complexity_counter in 1:nrow(model.runs)) {
@@ -98,10 +105,13 @@ source("22_results_summary_for_plots.R")
 ## Extra cleanup for figure 2 individual panels
 source("23_results_summary_for_plots_figure2_panels.R")
 
-## Plots in progress for the manuscript !!!!! Open and run, don't source these !!!!!!
+## The multi-generation approximation is run separately from the above. 
+ ## This takes about three minutes. Can be skipped, but some of the plotting won't work in the scripts below
+source("26_multi_gen_predictions.R")
+
+## Manuscript plots !!!!! Open and run, don't source these !!!!!!
 # source("24_manuscript_plots_fig2_panels.R")
 # source("25_manuscript_plots.R")
 
-## The multi-generation approximation is run separately from the above
-source("26_multi_gen_predictions.R")
+
 
